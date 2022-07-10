@@ -49,7 +49,7 @@ My analysis of the election shows that:
   - Denver County, with 306,055 total votes cast (82.8%)
 
 ### Summary Screenshot 
-![Election Results](https://user-images.githubusercontent.com/106618404/178159152-206da38c-977b-472c-b74e-7529011c7860.PNG)
+![Election Results](https://user-images.githubusercontent.com/106618404/178159816-ecf0fbef-0810-43f9-a0c5-4ea2d9feea34.PNG)
 
 ## Election-Audit Summary
 ### Provide a business proposal to the election commission on how this script can be used for any election. Provide 2 examples of how this script can be modified for other elections.
