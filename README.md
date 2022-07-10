@@ -13,18 +13,21 @@ A Colorado Board of Elections employee assigned me to complete an audit of a rec
 - Software: Python 3.7.1, Visual Studio Code, 1.38.1
 
 ## Election Audit Results - Candidate Vote Results & Winning Candidate
-The analysis of the election shows that:
-- There were 369,711 votes cast in the election.
+- The analysis of the election shows that:
+  - There were 369,711 votes cast in the election.
+
 - The candidates were:
   -  Candiate 1 Charles Casper Stockham
   -  Candiddate 2 Diana DeGette
   -  Candidate 3 Raymon Anthony Doane
-The candidate results were:
+
+- The candidate results were:
   - Candidate 1 received 23.0% of the vote and 85,213 votes
   - Candidate 2 received 73.8% of the vote and 272,892 votes
   - Candidate 3 received 3.1% of the vote and 11,606 votes
-The winner of the election was:
-  - Candidate 2 Diana DeGette who received 73.8% of the vote and 272,892 votes
+
+- The winner of the election was:
+   - Candidate 2 Diana DeGette who received 73.8% of the vote and 272,892 votes
 
 ## Challenge Overview
 In addition to the information supplied above, an additional purpose of the challenge was to ascertain the number of votes cast in each county and the percentage of the overall vote per county, in addition to the candidate information supplied above.
@@ -36,11 +39,13 @@ My analysis of the election shows that:
   - Jefferson
   - Denver
   - Arapahoe
-The county results were:
+
+- The county results were:
   - Jefferson had 10.5% of the vote, 38,855 total votes cast.
   - Denver had 82.8% of the vote, 306,055 total votes cast.
   - Arapahoe had 6.7% of the vote, 24,801 total votes cast.
-The county with the highest turnout was:
+
+- The county with the highest turnout was:
   - Denver County, with 306,055 total votes cast (82.8%)
 
 ### Summary Screenshot 
